@@ -1,6 +1,6 @@
 # Kwizdb
 
-Kwizdb is a Rust-based DBMS Designed for experimentation.
+Kwizdb is a Rust-based DBMS designed for experimentation.
 
 ## Commit Convention
 
